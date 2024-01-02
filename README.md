@@ -6,6 +6,9 @@ Cocobot is located in IntelliJ just clarification. So when you already have code
 
 COMING SOON........
 
+## Order of operations
+I will need to do some mental jumping jacks to try and figure out the proper way to do all of this. If i change something here i need to fetch it add it to tyrajr. If i make changes on both of them at the same time it will get yelled at. I'll hash out the details later. 
+
 ## When changes are made here this is how to get it on tyrajr
 
 
